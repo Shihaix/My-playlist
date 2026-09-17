@@ -216,13 +216,10 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
 
 #EXTINF:-1 tvg-id="553" tvg-name="CBeebies" group-title="Kids" tvg-logo="https://i.ibb.co/ZKP4VSc/Cbeebies.png",CBeebies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.mikrofast.web.id/license?ch=Cbeebies&k=4bbc94604b9aeaead632a17deb206a8f
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
 
@@ -964,6 +961,42 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #EXTINF: -1 tvg-id="SukanRTM.my" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/10bXFqm/rtm.png" group-title="Sports",Sukan RTM
 KODIPROP:inputstream.adaptive.license_type=clearkey
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_01.jpg" group-title="Sports",20th Asian Games Aichi-Nagoya 2026 CH1
+https://d30aylox5wvifh.cloudfront.net/live/media0/event1/DASH/event1.mpd
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_02.jpg" group-title="Sports",20th Asian Games Aichi-Nagoya 2026 CH2
+https://d30aylox5wvifh.cloudfront.net/live/media0/event2/DASH/event2.mpd
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_03.jpg" group-title="Sports",20th Asian Games Aichi-Nagoya 2026 CH3
+https://d30aylox5wvifh.cloudfront.net/live/media0/event3/DASH/event3.mpd
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_04.jpg" group-title="Sports",20th Asian Games Aichi-Nagoya 2026 CH4
+https://d30aylox5wvifh.cloudfront.net/live/media0/event4/DASH/event4.mpd
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_05.jpg" group-title="Sports",20th Asian Games Aichi-Nagoya 2026 CH5
+https://d30aylox5wvifh.cloudfront.net/live/media0/event5/DASH/event5.mpd
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_06.jpg" group-title="Sports",20th Asian Games Aichi-Nagoya 2026 CH6
+https://d30aylox5wvifh.cloudfront.net/live/media0/event6/DASH/event6.mpd
 
 
 ###################################################################Pluto TV#######################################################################################
