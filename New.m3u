@@ -39,7 +39,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"chr2a5w+jEFmuLRYbR++/Q","kid":"2hyyT1XbSuGzIxnDZZIFOQ"}],"type":"temporary"}
 ##https://sghost.mobileads.uno/uni5/uni5.mpd?id=8TV&provider=mytech
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8TV&kid=da1cb24f-55db-4ae1-b323-19c365920539
+https://service.samproject.my.id/unifi/8TV.mpd
 
 #EXTINF: -1 tvg-id="149.astro" tvg-name="TV9" tvg-logo="https://i.ibb.co/X8GmtXV/tv9.png" group-title="Local",TV9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -48,7 +48,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JQYFw9lzT3d36cRv5aaxdg","kid":"7qCCjDjXRAelw4Stcw1yJA"}],"type":"temporary"}
 ##https://sghost.mobileads.uno/uni5/uni5.mpd?id=TV9&provider=mytech
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV9&kid=eea0828c-38d7-4407-a5c3-84ad730d7224
+https://service.samproject.my.id/unifi/TV9.mpd
 
 
 #EXTINF: -1 tvg-id="114.astro" tvg-name="TV AlHijrah" tvg-logo="https://i.ibb.co/QH2rLQv/tv-alhijrah.png" group-title="Local",TV AlHijrah
@@ -180,7 +180,7 @@ https://07111473bdd34b7f97104ca06d6e5501.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+Msk5U1VU4GjJsFXtd+qWQ","kid":"S9MOVFcRROuRaKGn5ZFfdQ"}],"type":"temporary"}
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Animax&kid=4bd30e54-5711-44eb-9168-a1a7e5915f75
+https://service.samproject.my.id/unifi/Animax.mpd
 
 
 #EXTINF:-1 tvg-id="120.astro" tvg-name="ANIPLUS" group-title="Kids" tvg-logo="https://i.ibb.co/X3rknWM/Aniplus.png", Aniplus
@@ -195,7 +195,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41lXRgE0BuTycc3WNnZWnHftj_yHH6n1B8Dq9j9AdmZbM=rV4s/dash-wv/jitp-linearwm/2606/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41lXRgE0BuTycc3WNnZWnHfnVADwCPE7WTPnzYUs11tIA=nXLG/dash-wv/jitp-linearwm/2606/default_primary.mpd
 ##https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
 
@@ -216,11 +216,12 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
 
 #EXTINF:-1 tvg-id="553" tvg-name="CBeebies" group-title="Kids" tvg-logo="https://i.ibb.co/ZKP4VSc/Cbeebies.png",CBeebies
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1IxhBEzvUa2zO/aZnyPpZw","kid":"zFvb0CT+RWumYTRx5JMQQQ"}],"type":"temporary"}
+https://service.samproject.my.id/unifi/Cbeebies.mpd
 
 
 #EXTINF:-1 tvg-id="617.astro" tvg-name"Nickelodeon Junior" group-title="Kids" tvg-logo="https://i.ibb.co/j3NpGYB/Nick-JR2.png",Nick Jr
@@ -330,7 +331,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f4ea7be45af4275a8d76845fb19dba5:b02208ea61a2cdbf5b09440bc3157f04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=WarnerTV&kid=6f4ea7be-45af-4275-a8d7-6845fb19dba5
+https://service.samproject.my.id/unifi/WarnerTV.mpd
 
 
 #EXTINF: -1 tvg-id="709.astro" tvg-name="Asian Food Network" tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-title="Entertainment",Asian Food Network
@@ -387,7 +388,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=SIAR&kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
+https://service.samproject.my.id/unifi/SIAR.mpd
 
 #EXTINF: -1 tvg-id="120" tvg-name="Degup HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Degup.png/revision/latest?cb=20220924000615" group-title="Entertainment",Degup
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -395,7 +396,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DEGUP&kid=a1623b76-6e4b-48eb-88ce-a29e1c309cc7
+https://service.samproject.my.id/unifi/DEGUP.mpd
 
 #EXTINF:-1 tvg-id="128" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/66BD76C5-BEFD-476A-9688-87AFCE8E8526/0-16x9.png?width=530" group-title="Entertainment",Dunia Sinema
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -403,7 +404,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DuniaSin&kid=01a17625-701e-4734-b02a-a22c8657bd6f
+https://service.samproject.my.id/unifi/DuniaSin.mpd
 
 #EXTINF: -1 tvg-id="Kix.id" tvg-name="Kix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Entertainment",Kix
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
@@ -514,7 +515,7 @@ https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.co
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cYcWxDWRSQHSVRkwolaXTg","kid":"etiI7l3WSWqMLHemKE/5Ng"}],"type":"temporary"}
 ##https://sghost.mobileads.uno/uni5/uni5.mpd?id=HBO&provider=mytech
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936
+https://service.samproject.my.id/unifi/HBO.mpd
 
 
 #EXTINF: -1 tvg-id="402" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/DbxszG5/HBO-HIts.png" group-title="Movies",HBO Hits
@@ -524,7 +525,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6VBz9xrxD4UGfF2LxQn2Zw","kid":"Q3pKjfsxT4GIPHiUyZ5yvw"}],"type":"temporary"}
 ##https://sghost.mobileads.uno/uni5/uni5.mpd?id=HBOH&provider=mytech
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
+https://service.samproject.my.id/unifi/HBOH.mpd
 
 
 #EXTINF: -1 tvg-id="403" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/qFdK9zK/HBO-family.png" group-title="Movies",HBO Family
@@ -534,7 +535,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O2Me8GwngoCKbVP/DiTZ4w","kid":"mOglX66bQa67M0ZFqRbIKw"}],"type":"temporary"}
 ##https://sghost.mobileads.uno/uni5/uni5.mpd?id=HBOF&provider=mytech
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOF&kid=98e8255f-ae9b-41ae-bb33-4645a916c82b
+https://service.samproject.my.id/unifi/HBOF.mpd
 
 #EXTINF: -1 tvg-id="405" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/zhWh1RW/Cinemax.png" group-title="Movies",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -543,7 +544,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HqU8JHsRXWw7s3pNBIWjfA","kid":"uDORwPfGQUK6oyaxAcnz1A"}],"type":"temporary"}
 ##https://sghost.mobileads.uno/uni5/uni5.mpd?id=Cinemax&provider=mytech
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
+https://service.samproject.my.id/unifi/Cinemax.mpd
 
 
 
