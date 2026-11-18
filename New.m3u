@@ -175,11 +175,6 @@ https://07111473bdd34b7f97104ca06d6e5501.mediatailor.ap-southeast-1.amazonaws.co
 ###########################
 
 #EXTINF:-1 tvg-id="472" tvg-name="Animax HD" group-title="Kids" tvg-logo="https://i.ibb.co/0fd1mX5/animax.png", Animax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+Msk5U1VU4GjJsFXtd+qWQ","kid":"S9MOVFcRROuRaKGn5ZFfdQ"}],"type":"temporary"}
 https://ovh.rise2the.top/aldous/1795016480/r3RNDpCufCMICRm237TC0Q/play/animax/master.m3u8
 
 
@@ -509,38 +504,22 @@ https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.co
 
 
 #EXTINF:-1 tvg-id="401" tvg-name="HBO HD" group-title="Movies" tvg-logo="https://i.ibb.co/V9wJL7T/HBO.png",HBO HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cYcWxDWRSQHSVRkwolaXTg","kid":"etiI7l3WSWqMLHemKE/5Ng"}],"type":"temporary"}
 http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 
 #EXTINF: -1 tvg-id="402" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/DbxszG5/HBO-HIts.png" group-title="Movies",HBO Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6VBz9xrxD4UGfF2LxQn2Zw","kid":"Q3pKjfsxT4GIPHiUyZ5yvw"}],"type":"temporary"}
 http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 #EXTINF: -1 tvg-id="403" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/qFdK9zK/HBO-family.png" group-title="Movies",HBO Family
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O2Me8GwngoCKbVP/DiTZ4w","kid":"mOglX66bQa67M0ZFqRbIKw"}],"type":"temporary"}
 http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF: -1 tvg-id="405" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/zhWh1RW/Cinemax.png" group-title="Movies",Cinemax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HqU8JHsRXWw7s3pNBIWjfA","kid":"uDORwPfGQUK6oyaxAcnz1A"}],"type":"temporary"}
 http://aflaxtv.xyz:8080/F33848/cbd9779b/197964
 
 
