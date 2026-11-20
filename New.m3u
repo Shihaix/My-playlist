@@ -596,12 +596,12 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
 
-#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy" group-title="Movies" tvg-logo="https://i.ibb.co/kK7QhYY/galaxy.png",Galaxy Premium
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" group-title="Movies" tvg-logo="https://i.ibb.co/kK7QhYY/galaxy.png",Galaxy Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://proxy-v.rctiplus.id/live/web/galaxyprem/index.m3u8
 
-#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-name="Galaxy" group-title="Movies" tvg-logo="https://i.ibb.co/kK7QhYY/galaxy.png",Studio Universal
+#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-name="Studio Universal" group-title="Movies" tvg-logo="https://i.ibb.co/kK7QhYY/galaxy.png",Studio Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://proxy-v.rctiplus.id/live/web/universal/index.m3u8
