@@ -1,5 +1,5 @@
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/us.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://avkb.short.gy/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml,https://github.com/zultan-m/astro-epg/raw/refs/heads/main/astrogo.xml.gz,https://www.open-epg.com/files/canada.xml.gz,https://www.open-epg.com/files/indonesia.xml.gz,https://www.open-epg.com/files/japan2.xml,https://www.open-epg.com/files/philippines2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz,https://raw.githubusercontent.com/Jerrie-Aries/EPG/refs/heads/master/epg.xml,https://www.open-epg.com/files/india.xml.gz"   vod_library="https://shihai.vercel.app/api/raw/?path=/ProjectShows.html"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/us.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://avkb.short.gy/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml,https://github.com/zultan-m/astro-epg/raw/refs/heads/main/astrogo.xml.gz,https://www.open-epg.com/files/canada.xml.gz,https://www.open-epg.com/files/indonesia.xml.gz,https://www.open-epg.com/files/japan2.xml,https://www.open-epg.com/files/philippines2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz,https://raw.githubusercontent.com/Jerrie-Aries/EPG/refs/heads/master/epg.xml,https://www.open-epg.com/files/india.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"   vod_library="https://shihai.vercel.app/api/raw/?path=/ProjectShows.html"
 
 
 
@@ -255,10 +255,10 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 http://caonima.898757.xyz/l/nqgyHyVRbJwCa8eu5pnBlgtcJnvqFWzfYZUnsEDV0OsYAlfsse-LNOQtRYQN2vOn/play
 
-#EXTINF:-1 tvg-id="DISNEYCHANNEL.ca" tvg-logo="https://i.ibb.co/Jr4VqjY/disney.png" group-title="Kids",Disney XD
+#EXTINF:-1 tvg-id="DISNEYCHANNEL.ca" tvg-logo="https://i.ibb.co/njKRWL8/disney-xd.png" group-title="Kids",Disney XD
 http://caonima.898757.xyz/l/F0hHTYeuNXjRgpZ7yoqZPqdtDqh3EbY1HqQOwDAvOIwcKzd28sw5z8UHFwzWbslj/play
 
-#EXTINF:-1 tvg-id="DISNEYCHANNEL.ca" tvg-logo="https://i.ibb.co/Jr4VqjY/disney.png" group-title="Kids",Disney Jr.
+#EXTINF:-1 tvg-id="DISNEYCHANNEL.ca" tvg-logo="https://i.ibb.co/yRzYKQM/disneyjr.png" group-title="Kids",Disney Jr.
 http://caonima.898757.xyz/l/u_nbxfDj08Sy0YYJXQQPQq2GIfvcAjDMdbtORZtBXfOfzvD3O-p3gwyHx195LZx2/play
 
 #EXTINF:-1 tvg-id="DISNEYCHANNEL.ca" tvg-logo="https://i.ibb.co/Jr4VqjY/disney.png" group-title="Kids",Sky Kids
@@ -602,46 +602,46 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
 
-#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" group-title="Movies" tvg-logo="https://i.ibb.co/kK7QhYY/galaxy.png",Galaxy Premium
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" group-title="Movies" tvg-logo="https://i.ibb.co/5GtHKTK/galaxy-premium.png",Galaxy Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://proxy-v.rctiplus.id/live/web/galaxyprem/index.m3u8
 
-#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-name="Studio Universal" group-title="Movies" tvg-logo="https://i.ibb.co/kK7QhYY/galaxy.png",Studio Universal
+#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-name="Studio Universal" group-title="Movies" tvg-logo="https://i.ibb.co/F4TpvTQH/Studio.png",Studio Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://proxy-v.rctiplus.id/live/web/universal/index.m3u8
 
-#EXTINF:-1 tvg-id="1104" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",Star Movies HD
+#EXTINF:-1 tvg-id="1104" group-title="Movies" tvg-logo="https://i.ibb.co/xhBHR9D/star-movies.png",Star Movies HD
 http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="1110" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
+#EXTINF:-1 tvg-id="1110" group-title="Movies" tvg-logo="https://i.ibb.co/xfr35RB/star-movies-select.png,Star Movies Select HD
 https://ovh.rise2the.top/aldous/1795016365/IbdVhDLxwZau5nfwlH_Fsg/hls/starmovies-s/stream.m3u8
 
-#EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="https://i.ibb.co/NTTXRLz/Thrill.png",Sky Cinema Action
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" group-title="Movies" tvg-logo="https://i.ibb.co/jkjxQRs/ska.png",Sky Cinema Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://caonima.898757.xyz/l/k1f7XDNoujj_aWEHgmD1oEkod8EQQCqH7YEh6bMqVfQBz9TeQjmN3XQsRKi3rDcA/play
 
-#EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="https://i.ibb.co/NTTXRLz/Thrill.png",Sky Cinema Family
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" group-title="Movies" tvg-logo="https://i.ibb.co/PjLwYXJ/scf.png",Sky Cinema Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://caonima.898757.xyz/l/-F0ExDY-vMkgyL4HIzfZxRLezypBCd5GlzfGp6UZrC7v_hccQPoBq6XIAYww6xFJ/play
 
-#EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="https://i.ibb.co/NTTXRLz/Thrill.png",Sky Cinema Greats
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" group-title="Movies" tvg-logo="https://i.ibb.co/r5HJH0h/scthriller.png",Sky Cinema Greats
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://caonima.898757.xyz/l/oVm3IXWJFI51CQONHCK_w0uwrFY1Dzb1mhoTgxYzhR43HqzHnsIVYZlr1LO2aQrM/play
 
 
-#EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="https://i.ibb.co/NTTXRLz/Thrill.png",Sky Cinema Hits
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" group-title="Movies" tvg-logo="https://i.ibb.co/DpT8W8d/schits.png",Sky Cinema Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://caonima.898757.xyz/l/6VmbbRJ1GC2EL-Ie9m_5ymCU4CXfkdO--Wrb38Hsv4-BhQc_wuP0hooUk0UYOZ-H/play
 
 
-#EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="https://i.ibb.co/NTTXRLz/Thrill.png",Sky Cinema Select
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" group-title="Movies" tvg-logo="https://i.ibb.co/6ssvDx3/scs.png",Sky Cinema Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://caonima.898757.xyz/l/AjcXaPXYw-q1K6ExUZaWZXJr_N41a9l7S381WaIMs5P45WdZZgkNl8vKXGGDuIbE/play
 
 
-#EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="https://i.ibb.co/NTTXRLz/Thrill.png",Sky Cinema Premiere
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" group-title="Movies" tvg-logo="https://i.ibb.co/CWtBVXT/scp.png",Sky Cinema Premiere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://caonima.898757.xyz/l/s2DFi_laTAsuh5aCqp5fgZkIGr8vJ4TzLULrTvcZVF_WheTGujzHVMQRlzzA_WwK/play
 
