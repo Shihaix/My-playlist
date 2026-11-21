@@ -253,7 +253,15 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 #EXTINF:-1 tvg-id="DISNEYCHANNEL.ca" tvg-logo="https://i.ibb.co/Jr4VqjY/disney.png" group-title="Kids",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+http://caonima.898757.xyz/l/nqgyHyVRbJwCa8eu5pnBlgtcJnvqFWzfYZUnsEDV0OsYAlfsse-LNOQtRYQN2vOn/play
+
+#EXTINF:-1 tvg-id="DISNEYCHANNEL.ca" tvg-logo="https://i.ibb.co/Jr4VqjY/disney.png" group-title="Kids",Disney XD
+http://caonima.898757.xyz/l/F0hHTYeuNXjRgpZ7yoqZPqdtDqh3EbY1HqQOwDAvOIwcKzd28sw5z8UHFwzWbslj/play
+
+#EXTINF:-1 tvg-id="DISNEYCHANNEL.ca" tvg-logo="https://i.ibb.co/Jr4VqjY/disney.png" group-title="Kids",Disney Jr.
+http://caonima.898757.xyz/l/u_nbxfDj08Sy0YYJXQQPQq2GIfvcAjDMdbtORZtBXfOfzvD3O-p3gwyHx195LZx2/play
+
+#EXTINF:-1 tvg-id="DISNEYCHANNEL.ca" tvg-logo="https://i.ibb.co/Jr4VqjY/disney.png" group-title="Kids",Sky Kids
 
 #EXTINF:-1 tvg-id="643.astro" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/643_144.png",Pokemon
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -405,8 +413,7 @@ https://service.samproject.my.id/unifi/DuniaSin.mpd
 
 #EXTINF: -1 tvg-id="Kix.id" tvg-name="Kix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Entertainment",Kix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/kix/index.m3u8
+http://caonima.898757.xyz/l/GEmG3wAGpgcDvi40I7DMpCbnuYrQlRDQXWBTwUvgRuc0OM02FBrC952M3tPAOtYa/index.m3u8
 
 
 
@@ -484,8 +491,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
 #EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="https://i.ibb.co/NTTXRLz/Thrill.png",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/thrill/index.m3u8
+http://caonima.898757.xyz/l/OzzIFyDZvsMIPJWOBXa71BpuJ4jLAWlXEqzN-rJzGvXwjAKT0A9n4kCw-Ukpr6lX/index.m3u8
 
 
 #EXTINF: -1 tvg-id="413.astro" tvg-name="Showcase" tvg-logo="https://i.ibb.co/zQnHWqY/Showcase.png" group-title="Movies",Showcase
@@ -611,6 +617,36 @@ http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1110" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
 https://ovh.rise2the.top/aldous/1795016365/IbdVhDLxwZau5nfwlH_Fsg/hls/starmovies-s/stream.m3u8
+
+#EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="https://i.ibb.co/NTTXRLz/Thrill.png",Sky Cinema Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://caonima.898757.xyz/l/k1f7XDNoujj_aWEHgmD1oEkod8EQQCqH7YEh6bMqVfQBz9TeQjmN3XQsRKi3rDcA/play
+
+#EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="https://i.ibb.co/NTTXRLz/Thrill.png",Sky Cinema Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://caonima.898757.xyz/l/-F0ExDY-vMkgyL4HIzfZxRLezypBCd5GlzfGp6UZrC7v_hccQPoBq6XIAYww6xFJ/play
+
+#EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="https://i.ibb.co/NTTXRLz/Thrill.png",Sky Cinema Greats
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://caonima.898757.xyz/l/oVm3IXWJFI51CQONHCK_w0uwrFY1Dzb1mhoTgxYzhR43HqzHnsIVYZlr1LO2aQrM/play
+
+
+#EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="https://i.ibb.co/NTTXRLz/Thrill.png",Sky Cinema Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://caonima.898757.xyz/l/6VmbbRJ1GC2EL-Ie9m_5ymCU4CXfkdO--Wrb38Hsv4-BhQc_wuP0hooUk0UYOZ-H/play
+
+
+#EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="https://i.ibb.co/NTTXRLz/Thrill.png",Sky Cinema Select
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://caonima.898757.xyz/l/AjcXaPXYw-q1K6ExUZaWZXJr_N41a9l7S381WaIMs5P45WdZZgkNl8vKXGGDuIbE/play
+
+
+#EXTINF:-1 tvg-id="Thrill.id" group-title="Movies" tvg-logo="https://i.ibb.co/NTTXRLz/Thrill.png",Sky Cinema Premiere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://caonima.898757.xyz/l/s2DFi_laTAsuh5aCqp5fgZkIGr8vJ4TzLULrTvcZVF_WheTGujzHVMQRlzzA_WwK/play
+
+
+
 
 
 #######################################################################Documentary######################################################################################
